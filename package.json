@@ -22,7 +22,7 @@
     "@types/lodash": "^4.14.149",
     "@types/shortid": "^0.0.29",
     "@vue/composition-api": "^0.3.4",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "body-scroll-lock": "^2.6.4",
     "codemirror": "^5.50.2",
     "convert-range": "^1.1.0",
